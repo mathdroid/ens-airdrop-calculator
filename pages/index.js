@@ -163,6 +163,16 @@ export default function Home() {
             <ExternalLinkIcon />
           </Link>
         </Text>
+        <Text align="center">
+          Website source:{" "}
+          <Link
+            isExternal
+            href="https://github.com/mathdroid/ens-airdrop-calculator"
+          >
+            https://github.com/mathdroid/ens-airdrop-calculator{" "}
+            <ExternalLinkIcon />
+          </Link>
+        </Text>
       </Box>
     </>
   );
